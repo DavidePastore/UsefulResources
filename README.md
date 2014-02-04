@@ -17,3 +17,4 @@ Struts 1
 * [Makes one of the Tiles context attributes available through the page context](http://www.developer.com/java/ent/article.php/10933_2192411_5/Struts-in-Action-Developing-Applications-with-Tiles.htm)
 * [Dispatch Action](http://www.raistudies.com/struts-1/dispatchaction/)
 * [Redirect](http://stackoverflow.com/questions/10776051/struts-1-3-action-forward-parameter)
+* [Add/Edit example](https://www.laliluna.de/articles/posts/integration-struts-ejb-tutorial.html)
