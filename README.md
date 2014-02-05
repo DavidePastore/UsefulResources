@@ -20,3 +20,4 @@ Struts 1
 * [Add/Edit example](https://www.laliluna.de/articles/posts/integration-struts-ejb-tutorial.html)
 * [Manual Validation](https://www.slideboom.com/presentations/71741/08-Struts-Manual-Validation-en)
 * [Save errors in the action](http://www.velocityreviews.com/forums/t134976-struts-how-to-pass-error-messages-in-action-under-validator-scheme.html)
+* [Set UTF-8](http://stackoverflow.com/questions/138948/how-to-get-utf-8-working-in-java-webapps)
