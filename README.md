@@ -3,6 +3,11 @@ UsefulResources
 
 List of useful resources
 
+Apache Http Client
+------------------
+
+* [Send Custom Cookie](http://www.baeldung.com/httpclient-4-cookies)
+
 Neembuu
 -------
 
