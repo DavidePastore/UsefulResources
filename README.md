@@ -8,6 +8,12 @@ Apache Http Client
 
 * [Send Custom Cookie](http://www.baeldung.com/httpclient-4-cookies)
 
+
+Mobile Frameworks
+-----------------
+* [Mobile Frameworks Comparison Chart](http://mobile-frameworks-comparison-chart.com/)
+
+
 Neembuu
 -------
 
