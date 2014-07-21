@@ -8,6 +8,10 @@ Apache Http Client
 
 * [Send Custom Cookie](http://www.baeldung.com/httpclient-4-cookies)
 
+Filezilla
+---------
+* [Syncing Filezilla Sites across Computers with Dropbox](http://www.code-zen.net/2009/syncing-filezilla-sites-across-computers-with-dropbox/)
+
 
 Mobile Frameworks
 -----------------
