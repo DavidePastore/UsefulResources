@@ -10,6 +10,7 @@ Apache Http Client
 
 Filezilla
 ---------
+* [How to Synchronize With FileZilla](http://smallbusiness.chron.com/synchronize-filezilla-47982.html)
 * [Syncing Filezilla Sites across Computers with Dropbox](http://www.code-zen.net/2009/syncing-filezilla-sites-across-computers-with-dropbox/)
 
 
