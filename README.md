@@ -3,6 +3,11 @@ UsefulResources
 
 List of useful resources
 
+7-Zip
+-----
+* [7-Zip Command-Line](http://www.dotnetperls.com/7-zip-examples)
+
+
 Apache Http Client
 ------------------
 
