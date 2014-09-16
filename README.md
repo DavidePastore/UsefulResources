@@ -13,10 +13,16 @@ Apache Http Client
 
 * [Send Custom Cookie](http://www.baeldung.com/httpclient-4-cookies)
 
+
 Filezilla
 ---------
 * [How to Synchronize With FileZilla](http://smallbusiness.chron.com/synchronize-filezilla-47982.html)
 * [Syncing Filezilla Sites across Computers with Dropbox](http://www.code-zen.net/2009/syncing-filezilla-sites-across-computers-with-dropbox/)
+
+
+Jersey
+------
+* [Simple Jersey/REST and JSP based Web Application](http://www.lucubratory.eu/simple-jerseyrest-and-jsp-based-web-application/)
 
 
 Mobile Frameworks
