@@ -14,6 +14,11 @@ Apache Http Client
 * [Send Custom Cookie](http://www.baeldung.com/httpclient-4-cookies)
 
 
+Dropbox
+------
+* [Chooser](https://www.dropbox.com/developers/dropins/chooser/js)
+
+
 Filezilla
 ---------
 * [How to Synchronize With FileZilla](http://smallbusiness.chron.com/synchronize-filezilla-47982.html)
