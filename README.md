@@ -37,6 +37,9 @@ Maven
 -----
 * [Deploy a new artifact](http://central.sonatype.org/pages/apache-maven.html)
 
+Mean
+----
+* [Building your first application with MongoDB: Creating a REST API using the MEAN Stack - Part 1](https://www.mongodb.com/blog/post/building-your-first-application-mongodb-creating-rest-api-using-mean-stack-part-1)
 
 Mobile Frameworks
 -----------------
