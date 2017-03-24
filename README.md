@@ -36,6 +36,7 @@ Jersey
 Liferay
 -------
 * [Form Submit in Spring MVC Portlet](http://proliferay.com/form-submit-in-spring-mvc-portlet/)
+* [Server Side Validation in Liferay](http://www.opensource-techblog.com/2012/09/server-side-validation-in-liferay.html)
 
 Maven
 -----
