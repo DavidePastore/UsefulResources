@@ -33,6 +33,10 @@ Jersey
 * [Simple Jersey/REST and JSP based Web Application](http://www.lucubratory.eu/simple-jerseyrest-and-jsp-based-web-application/)
 
 
+Liferay
+-------
+* [Form Submit in Spring MVC Portlet](http://proliferay.com/form-submit-in-spring-mvc-portlet/)
+
 Maven
 -----
 * [Deploy a new artifact](http://central.sonatype.org/pages/apache-maven.html)
