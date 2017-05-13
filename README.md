@@ -18,6 +18,9 @@ Dropbox
 ------
 * [Chooser](https://www.dropbox.com/developers/dropins/chooser/js)
 
+Electron
+--------
+* [Creating Desktop Applications With AngularJS and GitHub Electron](https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron)
 
 Filezilla
 ---------
