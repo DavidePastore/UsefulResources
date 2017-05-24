@@ -87,5 +87,5 @@ Vagrant
 Windows Update Fix
 ------------------
 
-* (Windows update errore 0x80070057)[https://answers.microsoft.com/it-it/windows/forum/windows_7-update/windows-update-errore-0x80070057/50a59cdf-2097-494e-94ad-c43c0ff78e7d]
-* (Ripristino di Windows Update Windows Vista - 7 - 8.1 e 10)[https://answers.microsoft.com/it-it/windows/wiki/windows8_1-update/ripristino-di-windows-update-windows-vista-7-81-e/880067ce-cb1b-428d-8021-ecbe04dd6393]
+* [Windows update errore 0x80070057](https://answers.microsoft.com/it-it/windows/forum/windows_7-update/windows-update-errore-0x80070057/50a59cdf-2097-494e-94ad-c43c0ff78e7d)
+* [Ripristino di Windows Update Windows Vista - 7 - 8.1 e 10](https://answers.microsoft.com/it-it/windows/wiki/windows8_1-update/ripristino-di-windows-update-windows-vista-7-81-e/880067ce-cb1b-428d-8021-ecbe04dd6393)
