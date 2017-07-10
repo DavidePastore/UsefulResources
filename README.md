@@ -21,6 +21,7 @@ Dropbox
 Electron
 --------
 * [Creating Desktop Applications With AngularJS and GitHub Electron](https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron)
+* [Build a desktop application with Electron](https://egghead.io/courses/build-a-desktop-application-with-electron?utm_source=drip&utm_medium=email&utm_content=electron-apps)
 
 Filezilla
 ---------
