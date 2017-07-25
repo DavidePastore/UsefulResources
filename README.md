@@ -37,6 +37,11 @@ Jersey
 * [Simple Jersey/REST and JSP based Web Application](http://www.lucubratory.eu/simple-jerseyrest-and-jsp-based-web-application/)
 
 
+Jetty
+-----
+* [Avoid file locking with jetty 9 maven plugin](http://stefan-isele.logdown.com/posts/200857-avoid-file-locking-with-jetty-maven-plugin)
+
+
 Liferay
 -------
 * [Form Submit in Spring MVC Portlet](http://proliferay.com/form-submit-in-spring-mvc-portlet/)
