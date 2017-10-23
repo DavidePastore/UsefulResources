@@ -75,6 +75,13 @@ SourceForge
 
 * [Denying non-fast-forward and SourceForge](http://pete.akeo.ie/2011/02/denying-non-fast-forward-and.html)
 
+
+Spring Boot
+-----------
+
+* [Spring Boot REST + JPA + Hibernate + MySQL Example](https://www.concretepage.com/spring-boot/spring-boot-rest-jpa-hibernate-mysql-example)
+
+
 Struts 1
 --------
 
