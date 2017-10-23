@@ -94,6 +94,13 @@ Vagrant
 
 * [Official site](http://www.vagrantup.com/)
 
+
+VirtualBox
+----------
+
+* [Export a VirtualBox Machine to VMware](http://www.baconapplications.com/export-a-virtualbox-machine-to-vmware/)
+
+
 Windows Update Fix
 ------------------
 
