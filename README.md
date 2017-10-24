@@ -106,6 +106,7 @@ VirtualBox
 ----------
 
 * [Export a VirtualBox Machine to VMware](http://www.baconapplications.com/export-a-virtualbox-machine-to-vmware/)
+* [How to modify .ova file on Linux/Mac using terminal](https://gist.github.com/goodjob1114/9ededff0de32c1119cf7)
 
 
 Windows Update Fix
