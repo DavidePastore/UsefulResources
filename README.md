@@ -14,6 +14,10 @@ Apache Http Client
 * [Send Custom Cookie](http://www.baeldung.com/httpclient-4-cookies)
 
 
+Docker
+------
+* [Shrink Virtual Disk Space](https://github.com/docker/for-win/issues/244#issuecomment-1724287569)
+
 Dropbox
 ------
 * [Chooser](https://www.dropbox.com/developers/dropins/chooser/js)
